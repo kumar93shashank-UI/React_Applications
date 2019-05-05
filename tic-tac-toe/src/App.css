@@ -1,0 +1,19 @@
+
+.container {
+  text-align: center;
+  align-content: center;
+}
+
+
+.box {
+  width: 80px;
+  height: 80px;
+  border: 1px solid red;
+  display: inline-block;
+}
+
+.board {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 270px;
+}
